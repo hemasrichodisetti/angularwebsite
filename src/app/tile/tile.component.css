@@ -1,0 +1,23 @@
+.tilecss{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 1px 1px;
+    transition: box-shadow ease-in 1s;
+    margin: 50px;
+    height: 250px;
+    justify-content: space-between;
+    width: 200px;
+  
+    
+}
+.tilecss:hover {
+    box-shadow: 4px 4px
+}
+  
+img{
+width:30px;
+height:80px;    
+ 
+}
